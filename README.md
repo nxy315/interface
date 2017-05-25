@@ -1,13 +1,16 @@
-# 怎么使用MD
+# use markdown
 
 
 ## 标题
 
-`#是大标题`，`##，###以此类推`
+`#空格`
+`##空格`
 
 ## 列表
 
-段前面加`-我是空格`就可以变成列表
+无序列表 `-空格`
+有序列表 `1.空格`
+
 - 我最酷
 - 还是我最酷
 - 我还是最酷
@@ -18,19 +21,19 @@
 
 ## 链接
 
-中括号接url`[我是链接](http://xxx)`
-[草榴](https://github.com/nxy315)
+中括号接url `[我是链接](http://xxx)`
+[草榴1024](https://github.com/nxy315)
 
 ## 注释
 
-段前面加`>`,后面接文本
+`>空格`
 > 这就是一段注释
 
-## 插入图片
+## 字体加粗
 
-叹号加中括号接地址 `![](httpxxx)`
+`两边 **`
 
-![](https://avatars3.githubusercontent.com/u/16378539?v=3&s=460)
+**我很粗**
 
 ## 插入代码
 
@@ -83,3 +86,9 @@ arr1.filter((value,index)=>{
   display: flex;
 }
 ```
+
+## 插入图片
+
+叹号加中括号接地址 `![](httpxxx)`
+
+![](http://wx3.sinaimg.cn/large/006m97Kgly1fbr5gni087j30k00qdtd4.jpg)
