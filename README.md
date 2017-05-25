@@ -31,6 +31,8 @@ README
 
 ## 插   入   bash
 
+方法````bash ````
+
 ```bash
 sudo chmod ugo=rwx db
 
@@ -39,6 +41,8 @@ sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
 ```
 
 ## 插   入   html
+
+方法````html ````
 
 ```html
 <!DOCTYPE html>
@@ -56,6 +60,8 @@ sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
 
 ## 插   入   js
 
+方法````js ````
+
 ```js
 let arr1 = ['a','b','c','d'];
 let arr2 = [1,4];
@@ -65,6 +71,8 @@ arr1.filter((value,index)=>{
 ```
 
 ## 插   入   css
+
+方法````css ````
 
 ```css
 .content{
