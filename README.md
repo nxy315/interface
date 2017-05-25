@@ -1,5 +1,4 @@
-# use markdown
-
+# 使用markdown
 
 ## 标题
 
@@ -9,6 +8,7 @@
 ## 列表
 
 无序列表 `-空格`
+
 有序列表 `1.空格`
 
 - 我最酷
@@ -22,6 +22,7 @@
 ## 链接
 
 中括号接url `[我是链接](http://xxx)`
+
 [草榴1024](https://github.com/nxy315)
 
 ## 注释
@@ -40,10 +41,10 @@
 `bash`
 
 ```bash
-sudo chmod ugo=rwx db
+~$ sudo chmod ugo=rwx db
 
-sudo ln -s /home/nxy/download/node/bin/node /etc/bin/node
-sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
+~$ sudo ln -s /home/nxy/download/node/bin/node /etc/bin/node
+~$ sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
 ```
 
 
