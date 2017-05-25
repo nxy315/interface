@@ -1,35 +1,35 @@
 README
 
-#怎么使用MD
+# 怎么使用MD
 
-##标题
+## 标题
 
 `#是大标题`，`##，###以此类推`
 
-##列表
+## 列表
 
 段前面加`-我是空格`就可以变成列表
 - 我最酷
 - 还是我最酷
 - 我还是最酷
 
-##链接
+## 链接
 
 中括号接url`[我是链接](http://xxx)`
 [草榴](https://github.com/nxy315)
 
-##注释
+## 注释
 
 段前面加`>`,后面接文本
 > 这就是一段注释
 
-##插入图片
+## 插入图片
 
 叹号加中括号接地址 `![](httpxxx)`
 
 ![](https://avatars3.githubusercontent.com/u/16378539?v=3&s=460)
 
-##插   入   bash
+## 插   入   bash
 
 ```bash
 sudo chmod ugo=rwx db
@@ -38,7 +38,7 @@ sudo ln -s /home/nxy/download/node/bin/node /etc/bin/node
 sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
 ```
 
-##插   入   html
+## 插   入   html
 
 ```html
 <!DOCTYPE html>
@@ -54,7 +54,7 @@ sudo ln -s /home/nxy/download/node/bin/npm /etc/bin/npm
 </html>
 ```
 
-##插   入   js
+## 插   入   js
 
 ```js
 let arr1 = ['a','b','c','d'];
@@ -64,7 +64,7 @@ arr1.filter((value,index)=>{
 });
 ```
 
-##插   入   css
+## 插   入   css
 
 ```css
 .content{
